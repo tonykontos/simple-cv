@@ -1,4 +1,5 @@
 ## Skills
 
-* \LaTeX
+* LaTeX
 * Bullwhip
+* Photoshop
